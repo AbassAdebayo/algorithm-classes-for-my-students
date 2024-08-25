@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\Algorithm\StudentGrade\obj\Debug\net7.0\StudentGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\Algorithm\StudentGrade\obj\Debug\net7.0\StudentGrade.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Algorithm\StudentGrade\obj\Debug\net7.0\StudentGrade.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\Algorithm\StudentGrade\obj\Debug\net7.0\StudentGrade.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Algorithm\StudentGrade\bin\Debug\net7.0\StudentGrade.exe
+C:\Users\Hp\OneDrive\Desktop\Algorithm\StudentGrade\bin\Debug\net7.0\StudentGrade.deps.json
+C:\Users\Hp\OneDrive\Desktop\Algorithm\StudentGrade\bin\Debug\net7.0\StudentGrade.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\Algorithm\StudentGrade\bin\Debug\net7.0\StudentGrade.dll
+C:\Users\Hp\OneDrive\Desktop\Algorithm\StudentGrade\bin\Debug\net7.0\StudentGrade.pdb
+C:\Users\Hp\OneDrive\Desktop\Algorithm\StudentGrade\obj\Debug\net7.0\StudentGrade.dll
+C:\Users\Hp\OneDrive\Desktop\Algorithm\StudentGrade\obj\Debug\net7.0\refint\StudentGrade.dll
+C:\Users\Hp\OneDrive\Desktop\Algorithm\StudentGrade\obj\Debug\net7.0\StudentGrade.pdb
+C:\Users\Hp\OneDrive\Desktop\Algorithm\StudentGrade\obj\Debug\net7.0\StudentGrade.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\Algorithm\StudentGrade\obj\Debug\net7.0\ref\StudentGrade.dll

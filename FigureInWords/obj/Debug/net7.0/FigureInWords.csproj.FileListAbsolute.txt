@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\Algorithm\FigureInWords\obj\Debug\net7.0\FigureInWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\Algorithm\FigureInWords\obj\Debug\net7.0\FigureInWords.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Algorithm\FigureInWords\obj\Debug\net7.0\FigureInWords.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\Algorithm\FigureInWords\obj\Debug\net7.0\FigureInWords.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Algorithm\FigureInWords\bin\Debug\net7.0\FigureInWords.exe
+C:\Users\Hp\OneDrive\Desktop\Algorithm\FigureInWords\bin\Debug\net7.0\FigureInWords.deps.json
+C:\Users\Hp\OneDrive\Desktop\Algorithm\FigureInWords\bin\Debug\net7.0\FigureInWords.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\Algorithm\FigureInWords\bin\Debug\net7.0\FigureInWords.dll
+C:\Users\Hp\OneDrive\Desktop\Algorithm\FigureInWords\bin\Debug\net7.0\FigureInWords.pdb
+C:\Users\Hp\OneDrive\Desktop\Algorithm\FigureInWords\obj\Debug\net7.0\FigureInWords.dll
+C:\Users\Hp\OneDrive\Desktop\Algorithm\FigureInWords\obj\Debug\net7.0\refint\FigureInWords.dll
+C:\Users\Hp\OneDrive\Desktop\Algorithm\FigureInWords\obj\Debug\net7.0\FigureInWords.pdb
+C:\Users\Hp\OneDrive\Desktop\Algorithm\FigureInWords\obj\Debug\net7.0\FigureInWords.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\Algorithm\FigureInWords\obj\Debug\net7.0\ref\FigureInWords.dll
